@@ -24,6 +24,7 @@ Hi, I’m **@KDGOfficial**, a second-year student and passionate C++ developer w
   - GitHub: [KDGOfficial](https://github.com/KDGOfficial)
   - YouTube: [KanalDobrogoGamera](https://www.youtube.com/@KanalDobrogoGamera)
   - TikTok: [kdg_tt](https://www.tiktok.com/@kdg_tt)
+  - Email: [delovoykdg@gmail.com](mailto:delovoykdg@gmail.com)
   - Open an issue or pull request in my repositories!
 
 - 😄 **Pronouns**: He/Him
@@ -49,3 +50,4 @@ Check out some of my work:
 
 ## 📜 Note
 My projects are educational, built to learn and share knowledge, often with Russian comments and MIT licenses. I also share coding tutorials and gaming streams on my [YouTube channel](https://www.youtube.com/@KanalDobrogoGamera) and creative content on my [TikTok](https://www.tiktok.com/@kdg_tt). Explore, fork, or contribute!
+
