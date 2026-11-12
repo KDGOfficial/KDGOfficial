@@ -127,19 +127,6 @@ highlights:
 
 ---
 
-## 🏆 Featured Projects
-
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :---: |
-| 🪐 **ORBIT** | Full-scale Windows local task & focus ecosystem with native Acrylic blur, 85+ procedural audio cues, 8 focus soundtracks & physics-based sticky notes. | `Electron` `JS` `HTML/CSS` `Web Audio` | [View Repo](https://github.com/KDGOfficial/To-do-KDG2) |
-| 🎙️ **JARVIS** | Production-ready Windows Voice AI assistant with instant wake word, offline Vosk STT, system automation & Google Gemini conversational intelligence. | `Python` `Vosk` `Gemini AI` `Windows API` | [View Repo](https://github.com/KDGOfficial/JARVIS) |
-| 🌐 **KDG Browser** | High-performance custom web browser built for gamers with built-in ad blocker, custom extension engine & Gemini AI assistant. | `Electron` `React 18` `TypeScript` `Vite` | [View Repo](https://github.com/KDGOfficial/KDG-Browser) |
-| 🐾 **VirtualAIPet** | Interactive desktop virtual pet written in pure C++ using Win32 API and GDI+ rendering with smooth state animations. | `C++` `Win32 API` `GDI+` `OOP` | [View Repo](https://github.com/KDGOfficial/VirtualAIPet-) |
-| ⚡ **SimpleTCP Suite** | Low-level C++ client-server networked applications leveraging WinSock2, multithreaded message passing & packet serialization. | `C++` `WinSock2` `Multithreading` `TCP/UDP` | [View Repo](https://github.com/KDGOfficial/-SimpleTCP) |
-| ☢️ **S.T.A.L.K.E.R. 2 Mod** | Health regeneration mod for *S.T.A.L.K.E.R. 2: Heart of Chornobyl* balancing game survival mechanics. | `Game Modding` `Unreal Engine` `C++` | [View Repo](https://github.com/KDGOfficial/STALKER-2-Health-Regeneration-Mod) |
-
----
-
 ## 🎹 A Little More About Me
 
 <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="70">
