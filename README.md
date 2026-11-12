@@ -175,6 +175,17 @@ When I'm not writing low-level systems or crafting desktop apps, you'll find me:
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/KDGOfficial/KDGOfficial/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/KDGOfficial/KDGOfficial/pacman-output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man eating your contributions" 
+         src="https://raw.githubusercontent.com/KDGOfficial/KDGOfficial/pacman-output/pacman-contribution-graph.svg" width="800"/>
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://github-visitor-counter-tau.vercel.app/api?username=KDGOfficial&amp;displayMode=topCountries&amp;theme=dark&amp;columns=8&amp;maxflags=250&amp;showlabels=true&amp;size=large" alt="Visitors by Country with Flags" />
 </p>
 <p align="center">
