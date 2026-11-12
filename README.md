@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/KDGOfficial">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=5BB0F7&center=true&vCenter=true&width=650&lines=C%2B%2B%2C+WinSock2+%26+Low-Level+Windows+Internals;Building+Production+Voice+AI+(JARVIS)+%26+Offline+STT;Desktop+Ecosystems%3A+ORBIT+%26+KDG-Browser;Clean+Architecture%2C+GoF+Patterns+%26+Game+Mods;Code+Crafter+%26+Viral+Content+Creator+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=5BB0F7&center=true&vCenter=true&width=650&lines=C%2B%2B%2C+WinSock2+%26+Low-Level+Windows+Internals;High-Load+Telegram+Bots+(aiogram+3.x+%2B+Python);Production+Voice+AI+(JARVIS)+%26+Offline+STT;Desktop+Ecosystems%3A+ORBIT+%26+KDG-Browser;Clean+Architecture%2C+GoF+Patterns+%26+Game+Mods;Code+Crafter+%26+Viral+Content+Creator+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,22 +37,23 @@
 
 ```yaml
 nickname: KDGOfficial
-role: Systems & Desktop Software Engineer, AI Builder
-focus: High-Performance Desktop Apps, C++ Win32/Networking & AI Voice Assistants
+role: Systems & Desktop Software Engineer, AI & Telegram Bot Developer
+focus: High-Performance Desktop Apps, C++ Win32/Networking & Production Telegram Bots
 experience:
   - Deep system-level Windows programming (Win32 API, GDI+, Winsock2)
   - Native & Electron hybrid desktop engineering (ORBIT, KDG-Browser)
+  - Production Telegram bot architectures (Python, aiogram 3.x, async queues, PostgreSQL)
   - AI voice pipeline integration (Vosk offline STT, Gemini AI)
   - Media & content creation (2M+ views milestone on TikTok)
 
 languages:
   - C++        → WinSock2, Win32 API, GDI+, multithreading, mutexes & memory safety
-  - Python     → AI voice pipelines (Vosk STT, Gemini), background daemons & automation
+  - Python     → High-load Telegram bots (aiogram 3.x), AI voice pipelines (Vosk/Gemini), automation
   - TypeScript → Type-safe Electron desktop apps, modular tools & modern frontends
   - JavaScript → Full-stack UI, Node.js runtimes, audio synthesis & Electron IPC
   - C# / .NET  → Windows desktop solutions, tooling & systems development
   - PHP        → Backend APIs, routing, template engines & server-side logic
-  - SQL        → Relational data modeling (SQLite, better-sqlite3, MySQL)
+  - SQL        → Relational data modeling (PostgreSQL, SQLAlchemy Async, SQLite, MySQL)
 
 skills:
   desktop_systems:
@@ -62,6 +63,14 @@ skills:
     - Multithreading, mutexes, lock_guards & concurrent event loops
     - Custom audio synthesis engines & background tray services
     - Portable executable packaging, installer generation & release optimization
+
+  telegram_bots_automation:
+    - aiogram 3.x architecture with FSM & modular handler routing
+    - Asynchronous worker pools & rate-limiting against Telegram API flood limits
+    - Media processing & downloader pipelines (YouTube, Spotify, Instagram, TikTok, 9+ platforms)
+    - PostgreSQL + SQLAlchemy 2.0 Async, Alembic migrations & Redis caching
+    - Advanced admin dashboards, audience segmentation & mass broadcast dispatchers
+    - Docker & docker-compose production containerization
 
   networking_architecture:
     - Low-level Winsock2 socket programming (TCP/UDP client-server architectures)
@@ -73,7 +82,7 @@ skills:
     - LLM API integration (Google Gemini, OpenAI)
     - Offline Speech-to-Text (Vosk STT) & zero-latency wake word detection
     - Windows-integrated voice assistants with real-time command routing
-    - Bot automation (Telegram Bot API, Discord bots)
+    - Bot automation & intelligent conversational agents
 
   frontend_web:
     - Modern React 18, TypeScript, Vite
@@ -85,6 +94,8 @@ skills:
     - Interactive simulators (EscapeTheMaze, VirtualAIPet, CarBuilderSimulation)
 
 highlights:
+  - Engineered KONDRASAVE: A high-performance production Telegram bot (Python 3.12, aiogram 3.x,
+    PostgreSQL & Docker) for 1-click media downloads from 9+ platforms with broadcast & analytics
   - Designed & developed ORBIT: A full-scale Windows desktop task manager and focus
     suite featuring native Acrylic blur, ambient soundscapes, and physics-based sticky notes
   - Built JARVIS: A production-ready Windows voice assistant combining instant wake-word
@@ -115,7 +126,7 @@ highlights:
 
 <h3 align="left">Tools, Databases & Platforms</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,windows,sqlite,mysql,postman,figma,npm,powershell" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,windows,postgres,docker,sqlite,mysql,postman,figma,npm,powershell" />
 </p>
 
 ---
