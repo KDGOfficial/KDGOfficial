@@ -191,13 +191,6 @@ When I'm not writing low-level systems or crafting desktop apps, you'll find me:
   <img src="https://raw.githubusercontent.com/KDGOfficial/KDGOfficial/main/github-metrics.svg" alt="Metrics" width="100%"/>
 </p>
 
----
-
-## 📡 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KDGOfficial&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=5BB0F7&line=5BB0F7&point=ffffff" width="100%"/>
-</p>
 
 ---
 
