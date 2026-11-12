@@ -140,6 +140,38 @@ When I'm not writing low-level systems or crafting desktop apps, you'll find me:
 
 ---
 
+## 💻 Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🧬 Languages Across My GitHub Repositories
+
+<!--START_SECTION:repo-languages-->
+**Top 10 languages across all my GitHub repositories**
+
+| # | Language | Share of code | Distribution | Repositories | Detected size |
+|--:|:--|--:|:--|--:|--:|
+| 1 | C++ | **40.19%** | ████████░░░░░░░░░░░░ | 19 | 1.04 MiB |
+| 2 | JavaScript | **38.27%** | ████████░░░░░░░░░░░░ | 3 | 1,015.39 KiB |
+| 3 | HTML | **7.05%** | █░░░░░░░░░░░░░░░░░░░ | 9 | 187.05 KiB |
+| 4 | CSS | **5.25%** | █░░░░░░░░░░░░░░░░░░░ | 6 | 139.17 KiB |
+| 5 | Python | **4.56%** | █░░░░░░░░░░░░░░░░░░░ | 3 | 120.91 KiB |
+| 6 | TypeScript | **4.33%** | █░░░░░░░░░░░░░░░░░░░ | 1 | 114.81 KiB |
+| 7 | Batchfile | **0.26%** | ░░░░░░░░░░░░░░░░░░░░ | 2 | 7.01 KiB |
+| 8 | CMake | **0.06%** | ░░░░░░░░░░░░░░░░░░░░ | 1 | 1.49 KiB |
+| 9 | Inno Setup | **0.03%** | ░░░░░░░░░░░░░░░░░░░░ | 1 | 903 B |
+
+**Languages found:** 9 · **Repositories scanned:** 38 (31 with language data, 0 accessible private, 1 forks) · **Detected code:** 2.59 MiB.
+**Other 0 languages:** 0.00% of detected code.
+
+**Last successful refresh:** 12 Nov 2026, 13:55:12 UTC · 12 Nov 2026, 15:55:12 EET (Kyiv)
+
+<sub>Data: GitHub Linguist /languages API. Percentages use detected file bytes across all languages (not only the top ten), not repository counts, lines written, or time spent. All accessible owned repositories are included, including forks and archived repos. Private repos require a permitted token; only aggregate statistics are exposed. GitHub Linguist can exclude generated and vendor code. Scheduled hourly.</sub>
+<!--END_SECTION:repo-languages-->
+
+---
+
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
