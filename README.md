@@ -175,12 +175,7 @@ When I'm not writing low-level systems or crafting desktop apps, you'll find me:
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KDGOfficial&theme=tokyonight&hide_border=true&background=0d1117&stroke=5BB0F7&ring=5BB0F7&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=5BB0F7&sideLabels=5BB0F7&dates=8ab4f8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KDGOfficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5BB0F7&icon_color=5BB0F7&text_color=ffffff" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDGOfficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5BB0F7&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KDGOfficial&theme=tokyonight&hide_border=true&background=0d1117&stroke=5BB0F7&ring=5BB0F7&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=5BB0F7&sideLabels=5BB0F7&dates=8ab4f8" width="60%" />
 </p>
 
 ---
