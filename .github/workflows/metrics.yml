@@ -20,5 +20,8 @@ jobs:
           user: KDGOfficial
           template: classic
           base: header, activity, community, repositories
+          base_indepth: yes
+          repositories: 100
+          repositories_forks: yes
+          repositories_affiliations: owner, collaborator
           config_timezone: Europe/Kyiv
-
