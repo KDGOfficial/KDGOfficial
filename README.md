@@ -8,11 +8,6 @@
   </a>
 </p>
 
-<div align="center">
-
-![Visit counter](https://count.getloli.com/get/@:KDGOfficial?theme=rule34)
-
-</div>
 
 ---
 
