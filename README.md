@@ -185,6 +185,14 @@ When I'm not writing low-level systems or crafting desktop apps, you'll find me:
 
 ---
 
+## 📈 Full Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KDGOfficial/KDGOfficial/main/github-metrics.svg" alt="Metrics" width="100%"/>
+</p>
+
+---
+
 ## 📡 Activity Graph
 
 <p align="center">
