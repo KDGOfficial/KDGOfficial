@@ -8,6 +8,11 @@
   </a>
 </p>
 
+<div align="center">
+
+![Visit counter](https://count.getloli.com/get/@:KDGOfficial?theme=rule34)
+
+</div>
 
 ---
 
@@ -191,7 +196,6 @@ When I'm not writing low-level systems or crafting desktop apps, you'll find me:
 <p align="center">
   <img src="https://raw.githubusercontent.com/KDGOfficial/KDGOfficial/main/github-metrics.svg" alt="Metrics" width="100%"/>
 </p>
-
 
 ---
 
