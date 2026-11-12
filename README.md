@@ -34,13 +34,6 @@
   </a>
 </p>
 
-```text
-┌──(kdg㉿desktop)-[~]
-└─$ run-system --mode="high-performance" --audio="ambient" --ai="enabled"
-[OK] Initializing Win32 sockets, desktop shaders & offline neural models...
-```
-
-<br>
 
 ```yaml
 nickname: KDGOfficial
