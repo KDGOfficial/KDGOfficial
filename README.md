@@ -173,10 +173,10 @@ When I'm not writing low-level systems or crafting desktop apps, you'll find me:
 | 8 | CMake | **0.06%** | ░░░░░░░░░░░░░░░░░░░░ | 1 | 1.49 KiB |
 | 9 | Inno Setup | **0.03%** | ░░░░░░░░░░░░░░░░░░░░ | 1 | 903 B |
 
-**Languages found:** 9 · **Repositories scanned:** 38 (31 with language data, 0 accessible private, 1 forks) · **Detected code:** 2.59 MiB.
+**Languages found:** 9 · **Repositories scanned:** 39 (31 with language data, 0 accessible private, 1 forks) · **Detected code:** 2.59 MiB.
 **Other 0 languages:** 0.00% of detected code.
 
-**Last successful refresh:** 16 Nov 2026, 18:39:04 UTC · 16 Nov 2026, 20:39:04 EET (Kyiv)
+**Last successful refresh:** 17 Nov 2026, 02:30:31 UTC · 17 Nov 2026, 04:30:31 EET (Kyiv)
 
 <sub>Data: GitHub Linguist /languages API. Percentages use detected file bytes across all languages (not only the top ten), not repository counts, lines written, or time spent. All accessible owned repositories are included, including forks and archived repos. Private repos require a permitted token; only aggregate statistics are exposed. GitHub Linguist can exclude generated and vendor code. Scheduled hourly.</sub>
 <!--END_SECTION:repo-languages-->
