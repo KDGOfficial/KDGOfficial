@@ -163,20 +163,20 @@ When I'm not writing low-level systems or crafting desktop apps, you'll find me:
 
 | # | Language | Share of code | Distribution | Repositories | Detected size |
 |--:|:--|--:|:--|--:|--:|
-| 1 | C++ | **39.35%** | ████████░░░░░░░░░░░░ | 19 | 1.04 MiB |
-| 2 | JavaScript | **37.62%** | ████████░░░░░░░░░░░░ | 4 | 1,019.22 KiB |
-| 3 | HTML | **6.90%** | █░░░░░░░░░░░░░░░░░░░ | 9 | 187.05 KiB |
-| 4 | TypeScript | **6.18%** | █░░░░░░░░░░░░░░░░░░░ | 2 | 167.49 KiB |
-| 5 | CSS | **5.14%** | █░░░░░░░░░░░░░░░░░░░ | 6 | 139.17 KiB |
-| 6 | Python | **4.46%** | █░░░░░░░░░░░░░░░░░░░ | 3 | 120.91 KiB |
-| 7 | Batchfile | **0.26%** | ░░░░░░░░░░░░░░░░░░░░ | 2 | 7.01 KiB |
+| 1 | C++ | **36.97%** | ███████░░░░░░░░░░░░░ | 19 | 1.04 MiB |
+| 2 | JavaScript | **35.44%** | ███████░░░░░░░░░░░░░ | 4 | 1,022.04 KiB |
+| 3 | TypeScript | **11.68%** | ██░░░░░░░░░░░░░░░░░░ | 2 | 336.75 KiB |
+| 4 | HTML | **6.51%** | █░░░░░░░░░░░░░░░░░░░ | 10 | 187.73 KiB |
+| 5 | CSS | **4.85%** | █░░░░░░░░░░░░░░░░░░░ | 7 | 139.99 KiB |
+| 6 | Python | **4.23%** | █░░░░░░░░░░░░░░░░░░░ | 4 | 121.97 KiB |
+| 7 | Batchfile | **0.24%** | ░░░░░░░░░░░░░░░░░░░░ | 2 | 7.01 KiB |
 | 8 | CMake | **0.05%** | ░░░░░░░░░░░░░░░░░░░░ | 1 | 1.49 KiB |
 | 9 | Inno Setup | **0.03%** | ░░░░░░░░░░░░░░░░░░░░ | 1 | 903 B |
 
-**Languages found:** 9 · **Repositories scanned:** 39 (32 with language data, 0 accessible private, 1 forks) · **Detected code:** 2.65 MiB.
+**Languages found:** 9 · **Repositories scanned:** 40 (32 with language data, 0 accessible private, 1 forks) · **Detected code:** 2.82 MiB.
 **Other 0 languages:** 0.00% of detected code.
 
-**Last successful refresh:** 19 Nov 2026, 11:47:54 UTC · 19 Nov 2026, 13:47:54 EET (Kyiv)
+**Last successful refresh:** 19 Nov 2026, 20:43:39 UTC · 19 Nov 2026, 22:43:39 EET (Kyiv)
 
 <sub>Data: GitHub Linguist /languages API. Percentages use detected file bytes across all languages (not only the top ten), not repository counts, lines written, or time spent. All accessible owned repositories are included, including forks and archived repos. Private repos require a permitted token; only aggregate statistics are exposed. GitHub Linguist can exclude generated and vendor code. Scheduled hourly.</sub>
 <!--END_SECTION:repo-languages-->
