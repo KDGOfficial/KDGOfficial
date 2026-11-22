@@ -163,12 +163,12 @@ When I'm not writing low-level systems or crafting desktop apps, you'll find me:
 
 | # | Language | Share of code | Distribution | Repositories | Detected size |
 |--:|:--|--:|:--|--:|--:|
-| 1 | JavaScript | **31.46%** | ██████░░░░░░░░░░░░░░ | 4 | 1.06 MiB |
-| 2 | C++ | **30.84%** | ██████░░░░░░░░░░░░░░ | 19 | 1.04 MiB |
-| 3 | TypeScript | **23.89%** | █████░░░░░░░░░░░░░░░ | 2 | 825.90 KiB |
-| 4 | HTML | **5.45%** | █░░░░░░░░░░░░░░░░░░░ | 10 | 188.46 KiB |
-| 5 | CSS | **4.55%** | █░░░░░░░░░░░░░░░░░░░ | 7 | 157.36 KiB |
-| 6 | Python | **3.53%** | █░░░░░░░░░░░░░░░░░░░ | 4 | 121.88 KiB |
+| 1 | JavaScript | **31.40%** | ██████░░░░░░░░░░░░░░ | 4 | 1.06 MiB |
+| 2 | C++ | **30.76%** | ██████░░░░░░░░░░░░░░ | 19 | 1.04 MiB |
+| 3 | TypeScript | **24.05%** | █████░░░░░░░░░░░░░░░ | 2 | 833.64 KiB |
+| 4 | HTML | **5.44%** | █░░░░░░░░░░░░░░░░░░░ | 10 | 188.46 KiB |
+| 5 | CSS | **4.56%** | █░░░░░░░░░░░░░░░░░░░ | 7 | 158.19 KiB |
+| 6 | Python | **3.52%** | █░░░░░░░░░░░░░░░░░░░ | 4 | 121.88 KiB |
 | 7 | Batchfile | **0.20%** | ░░░░░░░░░░░░░░░░░░░░ | 2 | 7.01 KiB |
 | 8 | CMake | **0.04%** | ░░░░░░░░░░░░░░░░░░░░ | 1 | 1.49 KiB |
 | 9 | Inno Setup | **0.03%** | ░░░░░░░░░░░░░░░░░░░░ | 1 | 903 B |
@@ -176,7 +176,7 @@ When I'm not writing low-level systems or crafting desktop apps, you'll find me:
 **Languages found:** 9 · **Repositories scanned:** 40 (32 with language data, 0 accessible private, 1 forks) · **Detected code:** 3.38 MiB.
 **Other 0 languages:** 0.00% of detected code.
 
-**Last successful refresh:** 22 Nov 2026, 06:58:37 UTC · 22 Nov 2026, 08:58:37 EET (Kyiv)
+**Last successful refresh:** 22 Nov 2026, 15:25:18 UTC · 22 Nov 2026, 17:25:18 EET (Kyiv)
 
 <sub>Data: GitHub Linguist /languages API. Percentages use detected file bytes across all languages (not only the top ten), not repository counts, lines written, or time spent. All accessible owned repositories are included, including forks and archived repos. Private repos require a permitted token; only aggregate statistics are exposed. GitHub Linguist can exclude generated and vendor code. Scheduled hourly.</sub>
 <!--END_SECTION:repo-languages-->
