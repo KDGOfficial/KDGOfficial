@@ -177,7 +177,7 @@ When I'm not writing low-level systems or crafting desktop apps, you'll find me:
 **Languages found:** 10 · **Repositories scanned:** 41 (33 with language data, 0 accessible private, 2 forks) · **Detected code:** 8.50 MiB.
 **Other 0 languages:** 0.00% of detected code.
 
-**Last successful refresh:** 28 Nov 2026, 03:57:30 UTC · 28 Nov 2026, 05:57:30 EET (Kyiv)
+**Last successful refresh:** 28 Nov 2026, 13:08:30 UTC · 28 Nov 2026, 15:08:30 EET (Kyiv)
 
 <sub>Data: GitHub Linguist /languages API. Percentages use detected file bytes across all languages (not only the top ten), not repository counts, lines written, or time spent. All accessible owned repositories are included, including forks and archived repos. Private repos require a permitted token; only aggregate statistics are exposed. GitHub Linguist can exclude generated and vendor code. Scheduled hourly.</sub>
 <!--END_SECTION:repo-languages-->
